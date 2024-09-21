@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @potremblay
-- ✨ I am a Front-End Developer which care for accessibility and like to work project that have meaning for people.
+- ✨ I am a Front-End Developer which care for accessibility and like to work on projects that have meaning for people.
 - 🤖 I’m interested in cats (siamese in perticular), anime, manga, robot, etc.
 - 📚 I’m currently learning Python, AI and Data Science for fun
 - 🍭 I’m looking to collaborate on fun and interesting people
