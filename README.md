@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @potremblay
-- 🤖 I’m interested in Gender and Social Equality, cat (siamese in perticular), anime, robot, etc.
-- 📚 I’m currently learning Python and Data Science for fun
+- ✨ I am a Front-End Developer which care for accessibility and like to work project that have meaning for people.
+- 🤖 I’m interested in cats (siamese in perticular), anime, manga, robot, etc.
+- 📚 I’m currently learning Python, AI and Data Science for fun
 - 🍭 I’m looking to collaborate on fun and interesting people
+
 
 
 <!---
